@@ -442,3 +442,7 @@ contract StakeNFT {
         return burnToken;
     }
 }  
+
+
+// Lion NFT Contract Address : 0x0a7b31f6a8B3ff031064Ad2350bd82dF7e4A9Ddf
+// Reward Token Contract Address : 0xA525AE454ABc985eFdc8867F42ee95dAA362F129
